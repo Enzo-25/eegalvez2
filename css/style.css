@@ -84,7 +84,7 @@ footer.copyright{
 }
 .cuerpo1 {
     background-color: rgb(216, 72, 72);
-    background-image: url(/imagenes/fondo1.jpg);
+    background-image: url(/img/fondo1.jpg);
 
 }
 .contacto {
@@ -95,14 +95,15 @@ main .quiensoy .tituloQuiensoy {
     text-align: center;
     font-weight: bold;
     color: red;
-    font-size: 35px;
+    font-size: 30px;
 }
 main .quiensoy p {
     text-align: center;
-    padding: 1px;
+    padding: px;
+    font-size: 14px;
 }
 main .quiensoy div {
-    padding: 20px;
+    padding: 15px;
     display: flex;
     justify-content: center;
     
@@ -110,27 +111,27 @@ main .quiensoy div {
 main .quiensoy div img {
     display: flex;
     border-radius: 50%;
-    border: solid black 3px;
-    width: 250px;
-    padding: 5px;
+    border: solid black 2px;
+    width: 210px;
+    padding: 1px;
 }
 main .quiensoy .nombreQuiensoy {
     text-align: center;
-    font-size: 31px;
-    padding: 5px;
+    font-size: 28px;
+    padding: 1px;
 
 }
 footer p {
     color: black;
     text-align: center;
-    padding: 5px;
+    padding: 1px;
 
 }
 footer h3 {
     color: red;
     text-align: center;
-    margin: 10px;
-    padding: 4px;
+    margin: 1px;
+    padding: 1px;
 }
 footer h4 a {
     text-align: center;
@@ -139,12 +140,12 @@ footer h4 a {
     display: inline;
     color: white;
     font-size: 17px;
-    padding: 5px 30px;
+    padding: 1px 25px;
     text-decoration: none;
 }
 footer div {
     text-align: center;
-    padding: 4px;
+    padding: 1px;
 }
 /* ESTILOS DE PROYECTOS */
 main nav .tituloProyectos {
@@ -165,7 +166,7 @@ main .container {
 
 }
 main .container div {
-    width: 243px;
+    width: 230px;
     height: auto;
 }
 main .container div a img {
